@@ -4,6 +4,7 @@
   "description": "Ionic social network starter",
   "scripts": {
     "start": "npx ionic serve --external",
+    "start:dev": "ionic serve",
     "test": "npx ng test",
     "e2e": "npx ng e2e",
     "build:dev": "npx ionic build",
